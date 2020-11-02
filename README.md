@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-？
+lyjq
 
 **UPDATE 2020/10/18**
 
